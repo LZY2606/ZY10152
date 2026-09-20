@@ -34,3 +34,8 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# bgp-lab local database
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
